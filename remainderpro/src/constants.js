@@ -1,1 +1,1 @@
-export const ADD_REMAINDER = 'ADD_REMAINDER';
+export const ADD_REMINDER = 'ADD_REMINDER';

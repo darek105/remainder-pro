@@ -1,8 +1,8 @@
-import { ADD_REMAINDER } from '../constants';
+import { ADD_REMINDER } from '../constants';
 
 export const addRemainder = (text) => {
     const action = {
-        type: ADD_REMAINDER,
+        type: ADD_REMINDER,
         text
     };
     console.log('Action in addRemainder', action);
